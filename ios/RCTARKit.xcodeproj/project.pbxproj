@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		10062C831F127572009AE974 /* RCTARKitManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 10062C821F127572009AE974 /* RCTARKitManager.m */; };
 		1021FE1C1F3EDB98000E7339 /* ARModelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1021FE181F3EDB90000E7339 /* ARModelManager.m */; };
@@ -167,7 +166,7 @@
 		58B511D31A9E6C8500147676 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 610;
 				ORGANIZATIONNAME = HippoAR;
 				TargetAttributes = {
 					58B511DA1A9E6C8500147676 = {
